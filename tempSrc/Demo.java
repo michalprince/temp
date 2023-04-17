@@ -13,6 +13,6 @@ public class DemoApplication {
 	
 	public String getName(String name){
 		return "My name is ghghg yuio ghg" + name;
-	
+	}
 
 }
