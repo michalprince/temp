@@ -10,5 +10,8 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
 		System.Out.Println("Welcome");
     }
+	
+	public String getName(String name){
+		return "My name is " + name;
 
 }
